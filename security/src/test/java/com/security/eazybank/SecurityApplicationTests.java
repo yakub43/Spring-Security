@@ -1,4 +1,4 @@
-package com.securitydemo.security;
+package com.security.eazybank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

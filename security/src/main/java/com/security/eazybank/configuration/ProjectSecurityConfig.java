@@ -1,4 +1,4 @@
-package com.securitydemo.security.configuration;
+package com.security.eazybank.configuration;
 
 import org.springframework.cglib.proxy.NoOp;
 import org.springframework.context.annotation.Bean;

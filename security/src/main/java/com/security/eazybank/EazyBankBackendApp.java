@@ -1,13 +1,13 @@
-package com.securitydemo.security;
+package com.security.eazybank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityApplication {
+public class EazyBankBackendApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityApplication.class, args);
+		SpringApplication.run(EazyBankBackendApp.class, args);
 	}
 
 }
